@@ -5,6 +5,7 @@ seoDescription: "Learn about exploiting IDOR vulnerabilities to access unauthori
 datePublished: Fri Oct 31 2025 02:03:39 GMT+0000 (Coordinated Universal Time)
 cuid: cmhe7lzhh000002ldhfib7uf9
 slug: advanced-screening-writeup
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762006555581/26fb0075-51d7-429e-a207-7515a13ce5f6.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1761876116063/39448db6-eeea-46f2-a5af-b4f071683f07.png
 tags: cybersecurity, ctf, nahamcon
 
