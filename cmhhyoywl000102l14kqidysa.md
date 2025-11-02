@@ -12,7 +12,7 @@ tags: networking, cybersecurity, forensics, emotet, wireshark
 
 ### TL ; DR
 
-Even though i mostly looked at the solved writeups before solving it half of it myself, i found the Emotet malware in the pcap file.
+Even though i mostly looked at the solved writeups, I solved half of it myself unknowingly lol.
 
 ### Background
 
