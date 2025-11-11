@@ -20,7 +20,7 @@ n8n is easy to use and probably has become one of my favorite tools of all time.
 
 ### Why i decided to start automating and for what?
 
-As i work for my company, ***Yeti Cyber Operations,*** a startup i started with three other amazing individuals, i wanted us to have less load on posting things on social media to gain exposure, so i came up with the idea to automate not only our discord messaging but also linkedin posting mechanism.
+As part of my work at Yeti Cyber Operations — a startup I co-founded with three other amazing individuals — I wanted to reduce our manual workload for posting updates and maintaining visibility on social media. That led me to automate Discord messages and LinkedIn posts using n8n.
 
 ---
 
@@ -82,7 +82,7 @@ Here’s what I did:
 0 7 * * *
 ```
 
-It looks like this:  
+It looks like this:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1762860190925/b3a5efe8-773f-4450-a9c4-618f27e046a0.png align="center")
 
@@ -140,7 +140,7 @@ return filtered.map(item => ({ json: item.json }));
 
 You can find many tutorials on the web, i am too lazy to find them again and paste their links here, sorry about that :P.
 
-## Results:  
+## Results:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1762860631109/05a70883-d59e-4f31-b461-53e7f49b0127.png align="center")
 
