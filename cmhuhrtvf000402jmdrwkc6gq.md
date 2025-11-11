@@ -156,3 +156,5 @@ You can find many tutorials on the web, i am too lazy to find them again and pas
 I really hope to connect my SIEM tool like Wazuh to automate the alert system, i am a sucker for SIEM tools after all.
 
 Setting this up on Linux was a fun weekend project, i hoped the weekend had 3 more days but well, i managed to pull it off. See ya in my next article!
+
+Automation is addictive — once you start building with n8n, you’ll find yourself connecting everything. This was just the start of my journey into practical automation and self-hosting.
