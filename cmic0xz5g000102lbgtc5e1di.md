@@ -3,6 +3,7 @@ title: "Word Sea Adventures Writeup"
 datePublished: Sun Nov 23 2025 18:01:11 GMT+0000 (Coordinated Universal Time)
 cuid: cmic0xz5g000102lbgtc5e1di
 slug: word-sea-adventures-writeup
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763956346326/a1ce9f18-893d-439a-bd43-5df25faba5cd.png
 tags: cybersecurity, ctf, forensics, word-document
 
 ---
@@ -22,7 +23,7 @@ But nope. This one turned out way cleaner and way more evil.
 
 This is a full write‑up of how I solved the challenge and found the hidden **tctf{} / pctf{}** flag — and what I learned along the way.
 
-## **🔎 Step 1: Treat DOCX Files as ZIP Archives**
+## **Step 1: Treat DOCX Files as ZIP Archives**
 
 One thing every forensics enthusiast should remember:
 
