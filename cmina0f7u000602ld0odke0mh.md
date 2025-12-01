@@ -5,6 +5,7 @@ seoDescription: "Prepare for Advent of Cyber 2025 with interactive cybersecurity
 datePublished: Mon Dec 01 2025 15:00:30 GMT+0000 (Coordinated Universal Time)
 cuid: cmina0f7u000602ld0odke0mh
 slug: advent-of-cyber-prep-track-thm
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764601364437/04ea416d-e412-41b4-babb-fe803fdd9f34.jpeg
 tags: cybersecurity, tryhackme, adventofcyber2025
 
 ---
