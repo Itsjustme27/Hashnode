@@ -12,6 +12,8 @@ tags: security, cybersecurity, siem, wannacryransomware, logpoint
 
 Hack-A-Flag 2025 challenge experience
 
+> We, Team Y3ti@Sec, had participated in the first ever SIEM CTF Hack-A-Flag 2025, organized by IEEE Computer Society Pulchowk & Logpoint. The article is about the first flag pwned in the competition.
+
 ## Executive Summary
 
 **Date/Time:** July 8, 2025, 10:50:31 AM EDT  
